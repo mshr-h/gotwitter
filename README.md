@@ -1,2 +1,2 @@
 # gotwitter
-gotwitter example written in golang
+twitter example written in golang
